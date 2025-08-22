@@ -105,6 +105,7 @@ with st.sidebar:
     st.title("Proyek Analisis Data")
     st.markdown("**• Nama:** Sakti Kusuma Aji")
     st.markdown("**• Email:** skarluajitkas@gmail.com")
+    st.markdown("**• ID Dicoding:** saktikusumaaji")
     st.markdown("---")
     st.markdown(
         "Dashboard ini menyajikan analisis data dari E-Commerce Public Dataset. "

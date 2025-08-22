@@ -1,5 +1,5 @@
 Streamlit Claude url : https://saktiworkstation-proyek-analisis-dico-dashboarddashboard-1j4eut.streamlit.app/
-
+Collab : https://colab.research.google.com/drive/10d230cD0rw0RP_3Q5EQopq3W-7YF4anf?usp=sharing
 Local URL :
 Local URL: http://localhost:8501
   Network URL: http://192.168.1.7:8501
