@@ -64,7 +64,8 @@ streamlit run dashboard/dashboard.py
 
 Biasanya akan langsung mengarah ke browser, jika tidak bisa cek url di terminal atau berikut (biasanya http://localhost:8501).
 
-# Hasil Analisis
+## Hasil Analisis
+
     - Dasbor interaktif akan menampilkan visualisasi dari hasil analisis, antara lain:
 
     - Key Metrics: Total pendapatan, jumlah pesanan, dan jumlah pelanggan unik.
