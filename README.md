@@ -13,17 +13,6 @@ Proyek ini bertujuan untuk melakukan analisis mendalam terhadap E-Commerce Publi
 3.  **(Analisis Lanjutan) Bagaimana cara mengelompokkan pelanggan ke dalam segmen-segmen yang berarti berdasarkan perilaku pembelian mereka (Recency, Frequency, Monetary)?**
     -   *Tujuan*: Membuat segmentasi pelanggan untuk kampanye pemasaran yang lebih personal dan efektif, serta meningkatkan retensi pelanggan.
 
-## Struktur Proyek
-
-submission/
-├───dashboard/
-│   └───dashboard.py         # File utama aplikasi Streamlit
-├───data/
-│   └─── (semua file .csv)   # Kumpulan dataset mentah
-├───notebook.ipynb             # Notebook Jupyter berisi proses analisis data
-├───README.md                  # Berkas ini (penjelasan proyek)
-└───requirements.txt           # Daftar library Python yang dibutuhkan
-
 
 ## Setup Lingkungan
 
