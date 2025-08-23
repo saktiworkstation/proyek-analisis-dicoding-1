@@ -6,11 +6,11 @@ Proyek ini bertujuan untuk melakukan analisis mendalam terhadap E-Commerce Publi
 
 ## Pertanyaan Bisnis (Business Questions)
 
-1.  **Apa saja 10 kategori produk yang paling banyak dan paling sedikit diminati oleh pelanggan?**
-    -   *Tujuan*: Mengidentifikasi kategori produk unggulan dan yang kurang performa untuk membantu dalam strategi manajemen inventaris dan pemasaran.
-2.  **Bagaimana demografi pelanggan (berdasarkan negara bagian/state) dan metode pembayaran apa yang paling sering mereka gunakan?**
+1.  **Apa saja 10 kategori produk yang paling banyak dan paling sedikit diminati oleh pelanggan selama periode 2016-2018?**
+    -   *Tujuan*: Mengidentifikasi kategori produk unggulan dan yang kurang performa untuk membantu dalam strategi manajemen inventaris dan pemasaran selama periode 2016-2018.
+2.  **Bagaimana demografi pelanggan (berdasarkan negara bagian/state) dan metode pembayaran apa yang paling sering mereka gunakan selama periode 2016-2018?**
     -   *Tujuan*: Memahami basis pelanggan utama dan preferensi pembayaran mereka untuk menyesuaikan strategi pemasaran regional dan mengoptimalkan sistem pembayaran.
-3.  **(Analisis Lanjutan) Bagaimana cara mengelompokkan pelanggan ke dalam segmen-segmen yang berarti berdasarkan perilaku pembelian mereka (Recency, Frequency, Monetary)?**
+3.  **(Analisis Lanjutan) Bagaimana cara mengelompokkan pelanggan ke dalam segmen-segmen yang berarti berdasarkan perilaku pembelian mereka (Recency, Frequency, Monetary)pada akhir periode data?**
     -   *Tujuan*: Membuat segmentasi pelanggan untuk kampanye pemasaran yang lebih personal dan efektif, serta meningkatkan retensi pelanggan.
 
 
@@ -18,7 +18,7 @@ Proyek ini bertujuan untuk melakukan analisis mendalam terhadap E-Commerce Publi
 
 1.  **Clone Repositori (jika ada)**
     ```bash
-    git clone [URL_REPOSITORY_ANDA]
+    git clone https://github.com/saktiworkstation/proyek-analisis-dicoding-1.git
     cd submission
     ```
 
